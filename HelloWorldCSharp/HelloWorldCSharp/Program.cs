@@ -18,7 +18,7 @@ namespace HelloWorldCSharp
         static void Main(string[] args)
         {
             Test t = new Test();
-            Console.WriteLine("Hello Worldo");
+            Console.WriteLine("Testing my branch stuff one more time...");
             Console.WriteLine(t.value);
             Console.ReadLine();
             return;
